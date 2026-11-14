@@ -1,12 +1,14 @@
-# Inscrições na Semana de Tecnologia: Entrega parcial (T1 e T2)
+#Entrega parcial (T1 e T2)
 
 ## Integrantes
-- Nome Completo 1 - Matrícula
-- Nome Completo 2 - Matrícula
+- Arthur Santos Lemos Reis - Matrícula
+- Claudio Macedo Gama Filho - Matrícula
+- Igor Gonçalves - Matrícula
+- Thiago Ribeiro dos Santos Braziellas - Matrícula
 
 ## Ambiente
-- PostgreSQL 16.x (resultado de SELECT version())
-- Cliente: pgAdmin 4 (duas janelas de Query Tool)
+- PostgreSQL 18.7
+- Cliente: pgAdmin 9
 - Banco: lab_projeto | Esquema: lab_inscricoes
 
 ## Como executar
